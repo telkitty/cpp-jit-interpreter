@@ -1,5 +1,5 @@
 ##C++ JIT Interpreter
-This interpreter aims to provide a JIT compiler for a subset of C++11, with support for features such as
+This interpreter aims to provide a JIT interpreter for a subset of C++11, with support for features such as
 lambdas and templates.
 
 ##Rationale
